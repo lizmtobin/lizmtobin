@@ -2,7 +2,7 @@
 
 ⚡ About Me: I'm a Photographer, Creator and Junior Web Developer!
 
-😎 I've recently completed a Coding Bootcamp with Le Wagon Lonodon.
+😎 I've recently completed a Coding Bootcamp with Le Wagon London.
 
 🔭 I’m currently working on a bit of geocoding magic and making the odd gif.
 
