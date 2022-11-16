@@ -4,12 +4,13 @@
 
 😎 I've recently completed a Coding Bootcamp with Le Wagon London.
 
-🔭 I’m currently working on a bit of geocoding magic and making the odd gif.
-
-🌱 I’m currently learning a bit of Python. Tho Ruby-On-Rails is more my home.
+🌱 I’m currently learning a bit of PHP. Tho Ruby-On-Rails is my home.
 
 👯 I’m looking to collaborate on any creative projects! 
 
 📫 How to reach me: lizmtobin@gmail.com
 
 😄 Pronouns: She/Her
+
+<img src="https://github-readme-stats.vercel.app/api?username=lizmtobin&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizmtobin&layout=compact"/>
