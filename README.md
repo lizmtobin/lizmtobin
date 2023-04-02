@@ -2,7 +2,7 @@
 
 ⚡ About Me: I'm a Photographer, Creator and Junior Web Developer!
 
-😎 I've recently completed a Coding Bootcamp with Le Wagon London.
+😎 I completed a Coding Bootcamp with Le Wagon London.
 
 🌱 I’m currently learning a bit of PHP. Tho Ruby-On-Rails is my home.
 
