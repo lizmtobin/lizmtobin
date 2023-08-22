@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⚡ About Me: I'm a Photographer, Creator and Junior Web Developer!
+⚡ About Me: I'm a Photographer, Creator and Ruby Developer!
 
 😎 I completed a Coding Bootcamp with Le Wagon London.
 
-🌱 I’m currently learning a bit of PHP. Tho Ruby-On-Rails is my home.
+🌱 I work mostly in Ruby and Rails is my home.
 
 👯 I’m looking to collaborate on any creative projects! 
 
