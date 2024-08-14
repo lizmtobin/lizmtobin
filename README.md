@@ -2,13 +2,11 @@
 
 ⚡ About Me: I'm a Photographer, Creator and Ruby Developer!
 
-😎 I completed a Coding Bootcamp with Le Wagon London.
+😎 I started my coding journey with Bootcamp with Le Wagon London.
 
-🌱 I work mostly in Ruby and Rails is my home.
+🌱 I work mostly in Ruby.
 
-👯 I’m looking to collaborate on any creative projects! 
-
-📫 How to reach me: lizmtobin@gmail.com
+👯 I’m always looking to collaborate on creative projects! 
 
 😄 Pronouns: She/Her
 
